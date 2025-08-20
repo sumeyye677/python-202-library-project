@@ -168,7 +168,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👤 Geliştirici
 
-**[Sümeyye Akgül]**
+**Sümeyye Akgül**
 
 
 
