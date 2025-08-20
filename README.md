@@ -168,9 +168,9 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👤 Geliştirici
 
-**[Adınız Soyadınız]**
-- GitHub: [@kullanici_adiniz](https://github.com/kullanici_adiniz)
-- Email: email@example.com
+**[Sümeyye Akgül]**
+
+
 
 ---
 *Global AI Hub Python 202 Bootcamp Final Project - 2025*
